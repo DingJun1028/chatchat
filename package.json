@@ -37,7 +37,7 @@
     "ai": "^3.1.17",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
-    "cohere-ai": "^7.9.5",
+    "cohere-ai": "^7.18.0",
     "file-saver": "^2.0.5",
     "groq-sdk": "^0.3.2",
     "jotai": "^2.8.2",
